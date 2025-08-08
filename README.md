@@ -1,5 +1,4 @@
-#this project is builted by reactjs, vitejs, redux, tus protocol and web worker
-#to support upload large file and non-blocking main js thread
+**"This project is built with React.js, Vite.js, Redux, the TUS protocol, and Web Workers to support large file uploads and prevent blocking the main JavaScript thread."** 
 
 #to run client:
   1. cd client
